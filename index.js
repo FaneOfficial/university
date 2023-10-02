@@ -1,2 +1,2 @@
 console.log('chicha kruto');
-'goga suck'
+'giga nigga'
