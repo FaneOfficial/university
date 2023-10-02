@@ -1,2 +1,2 @@
 console.log('chicha kruto');
-'fail padding'
+'goga suck'
